@@ -1,6 +1,6 @@
-<h1 align="center">Biyu</h1>
+<h1 align="center">Biyu 👋</h1>
 <p align="center">
-  <b>Front-End Developer</b> • <b>UI/UX Designer</b>
+  <b>Front-End Developer</b> 💻 • <b>UI/UX Designer</b> 🎨
 </p>
 
 <p align="center">
@@ -13,19 +13,19 @@
 
 ---
 
-### About Me
+### 🙋‍♂️ About Me
 I build **clean, maintainable, and user-focused web interfaces** while continuously improving my skills.  
-I’m driven by **curiosity, experimentation, and creativity**, and I believe that both **technology and design are things that never stop evolving**.
+I’m driven by **curiosity 🔍, experimentation 🧪, and creativity ✨**, and I believe that both **technology and design never stop evolving**.
 
-- Continuously growing my **front-end and design skills**
-- Expanding my **tech stack and tooling** as I learn new technologies
-- UI/UX Designer who enjoys **exploring ideas and iterating through feedback**
-- Learning and applying backend concepts using **Prisma** and **PostgreSQL**
-- Open to new challenges, workflows, and ways of thinking
+- 🌱 Continuously growing my **front-end and design skills**
+- 🧠 Expanding my **tech stack and tooling** as I learn new technologies
+- 🎨 UI/UX Designer who enjoys **exploring ideas and iterating through feedback**
+- 🗄️ Learning and applying backend concepts using **Prisma** and **PostgreSQL**
+- 🚀 Open to new challenges, workflows, and ways of thinking
 
 ---
 
-### Tech Stack
+### 🧰 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
@@ -42,14 +42,12 @@ I’m driven by **curiosity, experimentation, and creativity**, and I believe th
 </p>
 
 <p>
-  <i>
-    This tech stack continues to grow and adapt as I explore new frameworks, patterns, and best practices.
-  </i>
+  <i>📈 This tech stack continues to grow and adapt as I explore new frameworks, patterns, and best practices.</i>
 </p>
 
 ---
 
-### Tools & Workflow
+### 🛠️ Tools & Workflow
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
@@ -58,29 +56,35 @@ I’m driven by **curiosity, experimentation, and creativity**, and I believe th
 </p>
 
 <p>
-  <i>
-    My tools and workflow evolve alongside my skills, adapting to new challenges and creative needs.
-  </i>
+  <i>⚙️ My tools and workflow evolve alongside my skills, adapting to new challenges and creative needs.</i>
 </p>
 
 ---
 
-### GitHub Activity
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biyu-aja&show_icons=true&theme=transparent" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biyu-aja&layout=compact&theme=transparent" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=Biyu-aja&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biyu-aja&layout=compact&theme=dark&hide_border=true" height="160" />
 </p>
 
 ---
 
-### Consistency
+### 🔥 Consistency
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Biyu-aja&theme=transparent">
+  <img src="https://streak-stats.demolab.com?user=Biyu-aja&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-### Links
-- Portfolio: _coming soon_
-- Figma: _your figma link_
-- Email: _your email_
+### 🌐 Connect With Me
+<p>
+  <a href="https://instagram.com/Biyuu.a_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/abiyu-aflah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:Abiyu.career@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white">
+  </a>
+</p>
