@@ -1,4 +1,4 @@
-<h1 align="center">Biyu 👋</h1>
+<h1 align="center">Abiyu Aflah 👋</h1>
 <p align="center">
   <b>Front-End Developer</b> 💻 • <b>UI/UX Designer</b> 🎨
 </p>
