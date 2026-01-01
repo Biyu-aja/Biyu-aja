@@ -88,3 +88,13 @@ I’m driven by **curiosity 🔍, experimentation 🧪, and creativity ✨**, an
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white">
   </a>
 </p>
+
+---
+
+<p align="center">
+  <i>Thank you for taking the time to view my profile 🙏</i>
+</p>
+
+<p align="center">
+  <img src="0101.gif" width="450" />
+</p>
