@@ -95,7 +95,7 @@ const abiyu = {
 
 <div align="center">
 
-### 🤖 HALU AI
+### 🤖 SkizoAI
 
 > **AI Roleplay Character Application** — An immersive platform where you can create, customize, and chat with AI-powered characters. Bring your favorite personas to life through dynamic, context-aware conversations.
 
@@ -111,7 +111,7 @@ const abiyu = {
 
 **Tech Stack:**
 
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
