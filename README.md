@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Designer;Always+Learning+%26+Growing;Building+Better+Experiences)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Biyu-aja&style=for-the-badge&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Biyu-aja&style=for-the-badge&color=blue)
 
 </div>
 
