@@ -149,13 +149,14 @@ const abiyu = {
 
 <div align="center">
 
-## 📫 Let's Connect
+## 📫 Let's Connect 💭 
 
 I'm always open to interesting conversations, collaboration opportunities, or just a friendly chat about tech and design!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Biyuu.a_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiyu-aflah)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abiyu.career@gmail.com)
+
 
 ---
 
