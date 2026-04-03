@@ -23,7 +23,6 @@ I'm a passionate developer who builds **clean, maintainable, and user-focused we
 - 🧪 **Experimentation** — Learning through building and iterating
 - ✨ **Creativity** — Merging design thinking with technical implementation
 
-```
 
 ---
 
