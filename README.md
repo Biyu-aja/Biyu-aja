@@ -23,20 +23,6 @@ I'm a passionate developer who builds **clean, maintainable, and user-focused we
 - 🧪 **Experimentation** — Learning through building and iterating
 - ✨ **Creativity** — Merging design thinking with technical implementation
 
-<div align="center">
-
-### What I'm Up To
-
-</div>
-
-```javascript
-const abiyu = {
-  currentFocus: "Building responsive & accessible web applications",
-  learning: ["TypeScript", "Prisma", "PostgreSQL", "Advanced React Patterns"],
-  designing: "User experiences that matter",
-  goals: "Contribute to open source & collaborate on impactful projects",
-  funFact: "I believe the best code is the code you don't have to write"
-};
 ```
 
 ---
