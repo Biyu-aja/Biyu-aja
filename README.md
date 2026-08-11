@@ -127,7 +127,6 @@ What drives how I work:
 **Key Features:**
 - 📊 Real-time income & expense tracking
 - 📁 Categorized transaction records
-- 📈 Visual fund flow reports & summaries
 - 🗂️ Simple, organized dashboard for small businesses
 
 <div align="center">
@@ -148,7 +147,7 @@ What drives how I work:
 
 ### 🔧 ThirteenTools
 
-> **All-in-One Web Productivity Platform** — Simplifies technical and administrative tasks in one interactive dashboard. From automated lab report generation to a real-time chat support system, built with an offline-first architecture and PWA support.
+> **All-in-One Web Productivity Platform** — Simplifies technical and administrative tasks in one interactive dashboard.
 
 **Role:** Full-Stack Developer
 
@@ -159,7 +158,7 @@ What drives how I work:
 - 🔲 **QR Code Generator** — Instant QR code generation with dynamic preview and customizable design
 - 👥 **Group Generator** — Smart group-splitting algorithm with 3 modes (fixed count, fixed member, gender balance), Markdown export, and local draft system
 - 💎 **Token System** — Freemium model with token-based billing and transaction history
-- 📊 **Dashboard & Community** — Live statistics, testimonial system, bug report tracking
+- 📊 **Dashboard & Community** — Live statistics, testimonial system
 
 <div align="center">
 
