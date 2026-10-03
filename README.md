@@ -1,199 +1,74 @@
 <div align="center">
 
-# 👋 Hi, I'm Abiyu Aflah
-### Front-End Developer 💻 • Full-Stack Developer 🧩 • UI/UX Designer 🎨
+# Hi, I'm Abiyu Aflah
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Designer;Always+Learning+%26+Growing;Building+Better+Experiences&color=2EA043)](https://git.io/typing-svg)
+**Front-End Developer | Full-Stack Developer | UI/UX Designer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Biyu-aja&style=for-the-badge&color=2EA043)
+Building modern, responsive, and user-focused web applications.
 
-</div>
-
----
-
-<div align="center">
-
-## 🚀 About Me
-
-</div>
-
-I'm a developer who enjoys turning ideas into **clean, functional, and user-focused products** — from pixel-perfect interfaces to the systems running behind them. Working across both front-end and full-stack projects, I like owning a feature end-to-end: designing the flow, building the UI, and wiring it up to a solid backend.
-
-What drives how I work:
-
-- 🔍 **Curiosity** — Always exploring new tools, frameworks, and patterns
-- 🧪 **Experimentation** — Learning by building, breaking, and iterating
-- ✨ **Craft** — Blending design thinking with clean, maintainable code
-- 🤝 **Collaboration** — Enjoying the process just as much as the outcome
-
-🌐 **Portfolio:** [abiyuaflah.vercel.app](https://abiyuaflah.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=flat-square\&logo=vercel\&logoColor=white)](https://abiyuaflah.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abiyu-aflah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/Biyuu.a_)
 
 ---
 
-<div align="center">
+## About Me
 
-## 🛠️ Tech Stack
+I'm a developer passionate about building functional, scalable, and intuitive digital experiences. With an interest in both front-end and back-end development, I enjoy transforming ideas into practical solutions through thoughtful design and clean code.
 
-### Frontend Development
+💻 Focused on Web Development and UI/UX Design
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+🚀 Interested in Modern Technologies and Software Architecture
+
+🌱 Continuously Learning and Improving Technical Skills
+
+🤝 Open to Collaboration and New Opportunities
+
+---
+
+## Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
-### Tools
+### Tools & Design
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 
 ---
 
-<div align="center">
+## Contact
 
-### 📈 Contribution Graph
+I'm open to professional opportunities, collaboration, and discussions about technology and design.
 
-[![Abiyu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Biyu-aja&bg_color=0d1117&color=2ea043&line=2ea043&point=ffffff&area=true&area_color=2ea043&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge\&logo=vercel\&logoColor=white)](https://abiyuaflah.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abiyu-aflah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/Biyuu.a_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Abiyu.career@gmail.com)
 
-</div>
+<br/>
 
----
+*"Building meaningful experiences through code and design."*
 
-<div align="center">
-
-## 💼 Featured Projects
-
-</div>
-
----
-
-<div align="center">
-
-### 🤖 SkizoAI
-
-> **AI Roleplay Character Application** — An immersive platform where you can create, customize, and chat with AI-powered characters. Bring your favorite personas to life through dynamic, context-aware conversations.
-
-**Role:** Frontend Developer
-
-</div>
-
-**Key Features:**
-- 🎭 Create & customize AI characters with unique personalities
-- 💬 Context-aware, immersive roleplay conversations
-- 🎨 Character avatar & profile customization
-- ⚡ Powered by advanced language models
-
-<div align="center">
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-### 💰 Danusku
-
-> **Business Fund Management App** — A clean, intuitive application for tracking *dana usaha* (business funds). Record income, expenses, and monitor your business cash flow with ease.
-
-**Role:** Full-Stack Developer
-
-</div>
-
-**Key Features:**
-- 📊 Real-time income & expense tracking
-- 📁 Categorized transaction records
-- 🗂️ Simple, organized dashboard for small businesses
-
-<div align="center">
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-### 🔧 ThirteenTools
-
-> **All-in-One Web Productivity Platform** — Simplifies technical and administrative tasks in one interactive dashboard.
-
-**Role:** Full-Stack Developer
-
-</div>
-
-**Key Features:**
-- 📄 **Photo Document Tool** — Automated lab report generator with smart compression, multi-format export (PDF/DOCX/ZIP), built-in image editor, text-to-image generator, and PWA Share Target API
-- 🔲 **QR Code Generator** — Instant QR code generation with dynamic preview and customizable design
-- 👥 **Group Generator** — Smart group-splitting algorithm with 3 modes (fixed count, fixed member, gender balance), Markdown export, and local draft system
-- 💎 **Token System** — Freemium model with token-based billing and transaction history
-- 📊 **Dashboard & Community** — Live statistics, testimonial system
-
-<div align="center">
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_5-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Let's Connect 💭 
-
-I'm always open to interesting conversations, collaboration opportunities, or just a friendly chat about tech and design!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=vercel&logoColor=white)](https://abiyuaflah.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-2EA043?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Biyuu.a_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EA043?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiyu-aflah)
-[![Gmail](https://img.shields.io/badge/Gmail-2EA043?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abiyu.career@gmail.com)
-
-
----
-
-### ✨ *"Code is like humor. When you have to explain it, it's bad."* ✨
-
-**Thanks for stopping by!** 👋
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0d4429,50:1a7a3c,100:2ea043&height=120&section=footer)
 </div>
