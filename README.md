@@ -6,7 +6,7 @@
 
 Building modern, responsive, and user-focused web applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=flat-square\&logo=vercel\&logoColor=white)](https://abiyuaflah.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=flat-square\&logo=vercel\&logoColor=white)](https://abiyuaflah.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abiyu-aflah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/Biyuu.a_)
 
@@ -62,7 +62,7 @@ I'm a developer passionate about building functional, scalable, and intuitive di
 
 I'm open to professional opportunities, collaboration, and discussions about technology and design.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge\&logo=vercel\&logoColor=white)](https://abiyuaflah.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge\&logo=vercel\&logoColor=white)](https://abiyuaflah.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abiyu-aflah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/Biyuu.a_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Abiyu.career@gmail.com)
